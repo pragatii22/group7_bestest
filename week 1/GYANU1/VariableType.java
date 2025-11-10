@@ -1,4 +1,4 @@
-package java_lecture;
+
 public class VariableType {
     
     int age;
