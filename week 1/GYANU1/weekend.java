@@ -309,7 +309,7 @@
 // }
 
 
-//2
+// 2
 // public class weekend {
 //     public static void main(String[] args){
 //         Scanner sc = new Scanner(System.in);
@@ -425,16 +425,18 @@
 // }
 
 
-public class weekend {
-    public static void main(String[] args) {
-        System.out.println("Numbers between 1 and 50 divisible by 3 or 5, but not both:");
+// public class weekend {
+//     public static void main(String[] args) {
+//         System.out.println("Numbers between 1 and 50 divisible by 3 or 5, but not both:");
 
-        for (int i = 1; i <= 50; i++) {
-            // Check: divisible by 3 or 5, but not both
-            if ((i % 3 == 0 || i % 5 == 0) && !(i % 3 == 0 && i % 5 == 0)) {
-                System.out.println(i);
-            }
-        }
-    }
+//         for (int i = 1; i <= 50; i++) {
+//             // Check: divisible by 3 or 5, but not both
+//             if ((i % 3 == 0 || i % 5 == 0) && !(i % 3 == 0 && i % 5 == 0)) {
+//                 System.out.println(i);
+//             }
+//         }
+//     }
     
-}
+// }
+
+
