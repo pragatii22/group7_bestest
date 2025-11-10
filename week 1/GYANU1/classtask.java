@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-// public class weekend{
+// public class classtask{
 //     public static void main(String[]args) {
 //         Scanner sc =new Scanner(System.in);
 //         int sum = 0;
@@ -15,8 +15,8 @@ import java.util.Scanner;
 //     }
 // }
 
-public class weekend{
-    public static void main{
+public class classtask{
+    public static void main(String[]args){
         int i = 0;
         do {
             System.out.println("hello");
